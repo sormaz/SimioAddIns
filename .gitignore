@@ -21,3 +21,8 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+
+# binary output folders
+**/[Bb]in/
+**/[Dd]ebug/
